@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "GardenBedLog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub_1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Track what you planted in each garden bed and when, for smarter crop rotation next season.",
+              "displayName": "GardenBedLog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.gardenbedlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "GardenBedLog Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
